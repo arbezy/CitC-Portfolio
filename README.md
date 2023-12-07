@@ -8,4 +8,5 @@
 - CiC-sem1-report, the semester 1 report.
 - CiC-creating-resource-report, a report on some key elements of the python exercise design.
 - CiC_python_intro_path_material_review, a review of the Raspberry Pi Introduction to Python Pathway.
+- CiC_CD_blogs, 2 small writeups of CoderDojo sessions
 - santa-hat-python, is an christmassy exercise to teach students how to install python on their own laptops and how to install packages, then we can use the simple app to put a hat on an avatar of the students choosing by modifying the provided code.
